@@ -1,9 +1,7 @@
 #https://github.com/hungyhungy/madlab
 nouns,verbs,adjectives,randoms = [],[],[],[]
 nounn,verbb,adjectivee,randd = ['noun1','noun2','noun3'],['verb1','verb2','verb3'], ['adj1','adj2','adj3'], ['rand1', 'rand2', 'rand3']
-# verbb = ['verb1','verb2','verb3']
-# adjectivee = ['adj1','adj2','adj3']
-# randd = ['rand1', 'rand2', 'rand3']
+
 lists = [nouns,verbs, adjectives, randoms]
 for x in range(3):
     if x == 1:
